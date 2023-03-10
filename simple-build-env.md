@@ -28,4 +28,6 @@
   ```
   cd UHSDR/mchf-eclipse
   make firmware
+  # build for 512KB F4:
+  # make BUILDFOR=F4-512KB firmware
   ```
